@@ -1,4 +1,4 @@
-# 
+# Código abierto AI leaf disease detection system herramientas. Con entrenamiento de modelos y toma de decisiones automatizada — optimizado para el máximo rendimiento.
 
 
 
